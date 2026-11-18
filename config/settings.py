@@ -27,7 +27,7 @@ DATABASES = {"default": {
 }}
 
 STATIC_URL = "static/"
-STATICFILES_DIRS = [BASE_DIR / "Static"]
+STATICFILES_DIRS = [BASE_DIR / "static"]
 LANGUAGE_CODE = "pt-br"
 TIME_ZONE = "America/Araguaina"
 USE_TZ = True
